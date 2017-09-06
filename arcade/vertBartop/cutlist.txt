@@ -1,0 +1,25 @@
+2x4 panel (60.96 x 121.92) ->
+    A:  39.00 57.60 panel
+			39.00  9.90 CP Front
+			39.00 14.43 Top
+			39.00 12.00 Marque (HOLE)
+			39.00 21.27 (18.56) Control Panel (CUT OVERSIZE ON Y, MITER FRONT)
+		
+    B:  39.00 57.60 panel
+			39.00  8.00 Marque Bottom
+			39.00 46.50 Bottom (HOLE FOR CONTROL ACCESS)
+			39.00  1.77 SCRAP
+			
+    C:  39.00 57.60 (55.00) Front (CUT OVERSIZE ON Y THEN MITER BOTTOM)
+			
+    D:  60.96  4.92 SCRAP
+
+2x4 panel (60.96 x 121.92) ->
+    E:  39.00 121.92
+	        39.00 62.00 (61.21) Back (HOLE, CUT OVERSIZE ON Y THEN MITER TOP)
+			39.00 59.92 SCRAP
+	
+	F:  21.96 121.92 SCRAP
+
+2x4 panel (60.96 x 121.92) ->
+	50.00 70.00 2x Side (INTERLACE, 1" border allowed on 3 sides)
